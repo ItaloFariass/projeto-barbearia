@@ -1,0 +1,47 @@
+<fildset> -> 	  Utilizado no lugar da <div> para agrupar elementos 
+		do mesmo assunto. No lugar do <p> é utilizado o 
+		<legend>, melhorando a semantica do arquivo 
+
+<alt> ->	  Texto alternativo para as imagens, caso não carregem
+		 e para melhrar a acessibilidade do site.
+
+required -> 	  Para tornar o campo obrigatorio, ela fica no input 
+
+placeholder -> 	  Utilizado para ficar o exemplo no campo, 
+		como (00) 0000-0000.
+
+checked -> 	  Para a opção ficar marcada 
+
+
+*TABELAS*
+
+<table> -> Tag para inciar uma tabela como <ul>, <form> ...
+
+<tr> -> Table ROW - são as linhas das tabelas 
+
+<td> -> Table DATA - são as culunas / celulas das tabela 
+
+
+*A tabela pode ser dividida como o html, por head, body e footer* 
+
+
+<thead> -> cabeçalho da tabela, as celulas (<td>) são marcadas como <th>
+
+<tbody> -> Corpo da tabela, as tags não mudam
+
+<tfoot> -> O rodapé da tabela
+
+
+** Margim ** 
+
+TOP RIGHT BOTTOM LEFT 
+
+CIMA DIREITA BAIXO ESQUERDA
+
+** PARTE 4 **
+
+Sec
+
+
+BOX SHADOW -> X Y BLUR COLOR
+	o valor Desloca o eixo 
